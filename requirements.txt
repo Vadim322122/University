@@ -1,0 +1,6 @@
+aiofiles==23.2.1
+aiogram==2.25.1
+aiohttp==3.8.4
+aiosqlite==0.19.0
+Django==5.0
+djangorestframework==3.14.0
